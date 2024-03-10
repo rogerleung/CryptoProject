@@ -9,3 +9,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install foobar
 ```
+
+Install binance python for the package (https://python-binance.readthedocs.io/en/latest/)
+
+```bash
+pip install python-binance
+```
