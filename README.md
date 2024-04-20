@@ -20,3 +20,5 @@ pip install python-binance
 ## Websocket
 
 https://websockets.readthedocs.io/en/stable/
+
+https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-market-streams/Connect
