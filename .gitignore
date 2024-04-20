@@ -12,3 +12,7 @@ DataBase/
 # Notebook Checkpoints #
 ########################
 .ipynb_checkpoints/
+
+# pycache #
+###########
+**/__pycache__/
