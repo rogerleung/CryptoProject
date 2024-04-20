@@ -16,3 +16,7 @@ DataBase/
 # pycache #
 ###########
 **/__pycache__/
+
+# docker #
+##########
+docker
