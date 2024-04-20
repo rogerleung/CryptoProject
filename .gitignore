@@ -1,2 +1,14 @@
+# OS generated files #
+######################
+
 Data/
-ipynb_checkpoints
+DataBase/
+
+# Data Base #
+#############
+.tutorial.db
+
+
+# Notebook Checkpoints #
+########################
+.ipynb_checkpoints/
