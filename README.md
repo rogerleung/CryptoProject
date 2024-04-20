@@ -15,3 +15,8 @@ Install binance python for the package (https://python-binance.readthedocs.io/en
 ```bash
 pip install python-binance
 ```
+
+
+## Websocket
+
+https://websockets.readthedocs.io/en/stable/
