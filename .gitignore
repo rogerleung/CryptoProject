@@ -20,3 +20,6 @@ DataBase/
 # docker #
 ##########
 docker
+
+# virtual environment #
+/virtual_env/
